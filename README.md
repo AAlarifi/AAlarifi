@@ -2,10 +2,10 @@
 My name is Abdulhafeed and I'm from the UK.
 ### Tech Stack
 - Java, Python, JavaScript, HTML, CSS
-- Vue.js, React.js
+- Vue.js, ReactJS, NextJS
 - Git, Docker
 - Node.js, Express.js, AWS Lambda Functions
-- SQLite, MySQL, MariaDB
+- SQLite, MySQL, MongoDB, MariaDB
 
 <!--
 **AAlarifi/AAlarifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
